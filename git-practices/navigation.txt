@@ -4,3 +4,5 @@ register
 shop url
 john 
 michal
+yellow 
+red
